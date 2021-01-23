@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Home</title>
+</head>
+<body>
+    <h3 align = "center">
+        <br/><br/><br/>
+        <div style="position: absolute; top: 25px; left: 200px; width: 1500px; height: 130px; background-color: rgb(212, 205, 205); border-radius: 10px;border-style: solid">
+                <a href = "E:/QuarterSecond_html/index.html">
+              <img src="SCS_Icon.png" width="125" height="100"><img/>
+             </a>
+                 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                
+                 <font face="cinzel" size="5">
+    <a  href="E:/QuarterSecond_html/index.html" >Home</a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="E:/QuarterSecond_html/About.html" >About</a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="E:/QuarterSecond_html/Services.html" title="">Services</a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="E:/QuarterSecond_html/Contactus.html" title="">Contact us</a>
+    &nbsp;&nbsp;&nbsp;
+</font>
+</h3>
+<br/><br/><br/><br/>
+<h1 align="center">
+<a href="E:/QuarterSecond_html/Services.html" >
+<img src="Cloud-services.jpg" width="1500" height="400" >
+</a>   
+</h1>
+<div class = "text-wrapper">
+<font face="absolute" size="5">
+<p style = "text-align:  left;" >&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
+    <strong>SXCS</strong> Computing service for building, testing, deploying, and managing applications and services through our data centers,
+        with solutions including <strong> as a <br>
+            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Service (IaaS)</strong>, <strong> Platform as a Service (PaaS)</strong>, and Software as a Service (SaaS) that can be used for services such 
+        as analytics, virtual computing, storage,<br>
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;networking, and much more.<br>
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;SXCS Marketplace is a digital catalog with thousands of software listings from independent software vendors that make it easy to find, test, buy, and deploy<br>
+        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;software that runs on SXCS.</p>
+</font>
+</div>
+<h1 align = "center">
+        <font face="cinzel" size="4">
+<div style="position: absolute; top: 875px; left: 200px; width: 1500px; height: 30px; background-color: rgb(212, 205, 205); border-radius: 10px;border-style: solid">Copyright © 2019. All rights reserved.
+</div>
+</font>
+</h1>
+</body>
+</html>

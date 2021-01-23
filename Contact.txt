@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Contact</title>
+</head>
+<body>
+        <h3 align = "center">
+                <br/><br/><br/>
+                <div style="position: absolute; top: 25px; left: 200px; width: 1500px; height: 130px; background-color: rgb(212, 205, 205); border-radius: 10px;border-style: solid">
+               <a href = "E:/QuarterSecond_html/index.html">
+             <img src="SCS_Icon.png" width="125" height="100"><img/>
+            </a>
+                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                
+                <font face="cinzel" size="5">
+            <a  href="E:/QuarterSecond_html/index.html" >Home</a>
+            &nbsp;&nbsp;&nbsp;
+            <a href="E:/QuarterSecond_html/About.html" >About</a>
+            &nbsp;&nbsp;&nbsp;
+            <a href="E:/QuarterSecond_html/Services.html" >Services</a>
+            &nbsp;&nbsp;&nbsp;
+            <a href="E:/QuarterSecond_html/Contactus.html">Contact us</a>
+            &nbsp;&nbsp;&nbsp;
+        </font>
+    </div>
+        </h3>
+        <br><br><br>
+        <h3 align = "Left">
+            <div style="position: absolute; top: 200px; left: 200px; width: 1500px">
+        <form action="form_submit.php" method="post">
+            <fieldset>
+            <legend>Your Details:</legend> Name:
+            <input type="text" name="firstname"
+            value="" placeholder="Please enter your name here">
+            <br> Email:
+            <input type="text" name="lastname"
+            value="" placeholder="Please enter email here">
+        </fieldset>
+        </form>
+            </div>
+        </h3>
+        <br>
+        <h3 align = "Left">
+            <div style="position: absolute; top: 300px; left: 200px; width: 1500px">
+        <form action="form_submit.php" method="post">
+            <fieldset>
+                <legend>Your Review:</legend>
+            How did you hear about us ? 
+        <select>
+        <option value="Google">Google</option>
+        <option value="Facebook">Facebook</option>
+        <option value="Youtube">Youtube</option>
+        </select>
+        <br> Would you visit again ?<br>
+        <input type="checkbox" name="opt1" value="Yes">
+  <label for="opt1"> Yes</label>
+  <input type="checkbox" name="opt2" value="No">
+  <label for="opt2"> No</label>
+  <input type="checkbox" name="opt3" value="Maybe" checked>
+  <label for="opt3"> Maybe</label><br>
+  Comments:<br>
+  <textarea name="description"></textarea><br>
+  <input type="checkbox" name="signup" value="Yes" checked>
+  <label for="signup"> Sign me up for email updates</label><br>
+  <input type="submit" value="Submit">
+    </fieldset>
+</form>
+<br>
+<img src="park.gif" width="750" height="300" alt="Parks" usemap="#parkk" />
+<map name="parkk">
+<area shape="circle" coords="620,20,10" href="Safari_Park.html" alt="SafariPark">
+<area shape="circle" coords="150,275,10" href="Aziz_Bhatti_Park.html" alt="Aziz_Bhatti_Park">
+</map>
+        </div>
+        </h3>
+        <h1 align = "center">
+                <font face="cinzel" size="4">
+        <div style="position: absolute; top: 875px; left: 200px; width: 1500px; height: 30px; background-color: rgb(212, 205, 205); border-radius: 10px;border-style: solid">Copyright © 2019. All rights reserved.
+        </div>
+        </font>
+        </body>
+</html>
