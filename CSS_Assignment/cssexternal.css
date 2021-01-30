@@ -38,12 +38,12 @@ text-decoration:underline;
 color: black;
 }
 
-button{
+/*button{
 color:rgb(161, 20, 20);
 background: white;
 border-radius: 5px 5px 5px 5px;
 
-}
+}*/
 .rotatified {transform: rotate(90deg);}
 /*.sections
 {
@@ -73,7 +73,15 @@ color: white;
 }
 h2{
     position: absolute;
+    text-align: center;
     color: green;
-    left: 650px;
-    top: 1800px;
+    left: 500px;
+    top: 800px;
+}
+p{
+    position: absolute;
+    text-align: center;
+    color: green;
+    left: 400px;
+    top: 850px;
 }
